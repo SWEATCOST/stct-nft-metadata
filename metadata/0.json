@@ -1,9 +1,0 @@
-{
-  "name": "STCT preorder NFT",
-  "description": "Special NFT for STCT presale participants",
-  "image": "https://sweatcostcompany.com/images/0.png",
-  "attributes": [
-    { "trait_type": "Tier", "value": "Gold" },
-    { "trait_type": "Bonus", "value": "1% Extra Staking Interest" }
-  ]
-}
