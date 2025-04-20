@@ -1,0 +1,10 @@
+{
+  "name": "STCT NFT - Gold",
+  "description": "STCT Preorder NFT for Gold Tier buyers (1.51~2 BNB)",
+  "image": "https://sweatcost.github.io/stct-nft-metadata/images/gold.png",
+  "attributes": [
+    { "trait_type": "Tier", "value": "Gold" },
+    { "trait_type": "Bonus APR", "value": "+1%" },
+    { "trait_type": "Lockup Eligible", "value": "Yes" }
+  ]
+}
