@@ -4,7 +4,7 @@
   "image": "https://sweatcost.github.io/stct-nft-metadata/images/bronze.png",
   "attributes": [
     { "trait_type": "Tier", "value": "Bronze" },
-    { "trait_type": "Bonus APR", "value": "+0.5%" },
+    { "trait_type": "Bonus APR", "value": "+0.3%" },
     { "trait_type": "Lockup Eligible", "value": "Yes" }
   ]
 }
