@@ -4,7 +4,7 @@
   "image": "https://sweatcost.github.io/stct-nft-metadata/images/gold.png",
   "attributes": [
     { "trait_type": "Tier", "value": "Gold" },
-    { "trait_type": "Bonus APR", "value": "+1%" },
+    { "trait_type": "Bonus APR", "value": "+1.5%" },
     { "trait_type": "Lockup Eligible", "value": "Yes" }
   ]
 }
