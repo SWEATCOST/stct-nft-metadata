@@ -1,7 +1,7 @@
 {
   "name": "STCT NFT - Bronze",
   "description": "STCT Preorder NFT for Bronze Tier buyers (0.3~0.8 BNB)",
-  "image": "https://sweatcost.github.io/stct-nft-metadata/images/bronze.png",
+  "image": "https://peach-magnetic-hamster-568.mypinata.cloud/ipfs/bafybeibmndmthwt6sveh646zsag5nmro2qm5oykvmguckrrv2ysgcvnlti",
   "attributes": [
     { "trait_type": "Tier", "value": "Bronze" },
     { "trait_type": "Bonus APR", "value": "+0.3%" },
