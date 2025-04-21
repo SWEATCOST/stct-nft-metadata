@@ -1,7 +1,7 @@
 {
   "name": "STCT NFT - Silver",
   "description": "STCT Preorder NFT for Silver Tier buyers (0.81~1.5 BNB)",
-  "image": "https://sweatcost.github.io/stct-nft-metadata/images/silver.png",
+  "image": "https://peach-magnetic-hamster-568.mypinata.cloud/ipfs/bafybeiddxizlttkruawl5quq3ioeryds24s2rseggx7lz35iwiwbdcnwgm",
   "attributes": [
     { "trait_type": "Tier", "value": "Silver" },
     { "trait_type": "Bonus APR", "value": "+0.75%" },
