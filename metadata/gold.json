@@ -1,7 +1,7 @@
 {
   "name": "STCT NFT - Gold",
   "description": "STCT Preorder NFT for Gold Tier buyers (1.51~2 BNB)",
-"image": "https://peach-magnetic-hamster-568.mypinata.cloud/ipfs/bafybeibps7liu22lrc3sdn5pwaapr5rbixoukmau4zmkvnxncswz4bzcke/gold.png"
+"image": "https://peach-magnetic-hamster-568.mypinata.cloud/ipfs/bafybeibps7liu22lrc3sdn5pwaapr5rbixoukmau4zmkvnxncswz4bzcke"
 
   "attributes": [
     { "trait_type": "Tier", "value": "Gold" },
